@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979478478128",
+    "project_id": "omni-market-16d3a",
+    "storage_bucket": "omni-market-16d3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979478478128:android:23831a91c0134d1c27dcf5",
+        "android_client_info": {
+          "package_name": "com.example.omni_market"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDavgyN0wZmmDhqPIk8kFpNuvJDhWR5tIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
